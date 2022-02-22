@@ -1,0 +1,23 @@
+.main{
+    text-align: center;
+    padding-top: 18%;
+    
+    }
+    .b{
+        color: white;
+        background-color: black;
+        margin: none;
+       font-size: 100px;
+       cursor:pointer;
+    
+    }
+    :hover.b{
+        color: cadetblue;
+        
+    }
+    .alert
+    {
+        font-size: 150%;
+        text-align: center;
+    }
+    
